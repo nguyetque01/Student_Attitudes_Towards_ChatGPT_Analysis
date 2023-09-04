@@ -26,10 +26,6 @@ This project will be carried out through the following steps:
 
 This project utilizes Jupyter Notebook as the execution environment and presentation platform. To run the notebook and interact with the content, you need to install Jupyter Notebook on your computer. Once installed, open the notebook in Jupyter and execute the code cells to perform the analysis and display the results.
 
-## Documentation
-
-Throughout the research and analysis process, all relevant documentation will be stored in the `docs` directory. You can refer to these documents to gain a deeper understanding of the project's procedures and results.
-
 ## License
 
 This project is distributed under the MIT license. Please note that this project is provided for reference purposes only and is not liable for any risks or losses resulting from the use of this project.
